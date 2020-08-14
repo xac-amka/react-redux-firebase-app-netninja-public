@@ -12,7 +12,7 @@ const Navbar = (props) => {
     return (
         <nav className="nav-wrapper blue darken-4">
             <div className="container">
-                <Link to="/" className="brand-logo hide-on-med-only hide-on-small-only">XacBank LMS</Link>
+                <Link to="/" className="brand-logo hide-on-med-only hide-on-small-only">Event App</Link>
                 {/* put spinner later */}
                 { auth.isLoaded &&  whichLinks }
             </div>
