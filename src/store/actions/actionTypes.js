@@ -1,0 +1,9 @@
+export const CREATE_EVENT = "CREATE_EVENT";
+export const CREATE_EVENT_ERROR = "CREATE_EVENT_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const SIGN_OUT = "SIGN_OUT";
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS";
+export const SIGNUP_ERROR = "SIGNUP_ERROR";
+export const DELETE_EVENT = "DELETE_EVENT";
+export const DELETE_EVENT_ERROR = "DELETE_EVENT_ERROR";
